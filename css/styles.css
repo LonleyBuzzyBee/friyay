@@ -9,3 +9,9 @@ body {
   background-color: #fcd7f9;
   font-family: 'Lucida Sans';
 }
+h2 {  
+  color: #cb62e0;
+}
+  div .panel-heading {
+    border: 2px #b9f1fa;
+  }
