@@ -18,3 +18,13 @@
 #### There are currently no known bugs, if there are any  issues running this website I would love feedback please email me at mailiecook@yahoo.com. 
 ---
 ## Technologies used:
+* Bootstrap v3.3.7
+* CSS
+* VS code
+* Git Bash
+* HTML
+---
+## Legal
+#### Copyright (c) 2020 Mai A. Cook
+#### This website is licensed under MIT license
+
