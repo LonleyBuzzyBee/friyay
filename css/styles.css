@@ -6,7 +6,9 @@ h1 {
   color:#cb62e0;
   text-align: center;
 }
-
+img {
+  text-align: center;
+}
 body {
   background-color: #fcd7f9;
 }
