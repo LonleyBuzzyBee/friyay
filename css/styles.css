@@ -1,14 +1,11 @@
 h1 {
   text-align: center;
-  
-}div .jumbotron {
+  }
+  div .jumbotron {
   background-color: #abdbf5;
   color:#cb62e0;
-  text-align: center;
-}
-img {
-  text-align: center;
 }
 body {
   background-color: #fcd7f9;
+  font-family: 'Lucida Sans';
 }
