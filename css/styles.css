@@ -11,7 +11,7 @@ body {
 }
   .panel {
     border: 5px #cb62e0;
-    padding: 5px;
+    padding: 10px;
   }
 h2 {  
   color: #cb62e0;
@@ -27,7 +27,7 @@ ul {
 .well h2 {
   color: #abdbf5;
   font-weight: bold;
-  background-color: #d49af5;
+  background-color: #ffe8fd;
 }
 blockquote {
   font-style: italic;
