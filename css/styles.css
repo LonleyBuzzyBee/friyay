@@ -9,7 +9,7 @@ body {
   background-color: #fcd7f9;
   font-family: 'Lucida Sans';
 }
-  .panel-heading {
+  .panel {
     border: 5px #cb62e0;
     padding: 5px;
   }
@@ -28,4 +28,12 @@ ul {
   color: #abdbf5;
   font-weight: bold;
   background-color: #d49af5;
+}
+blockquote {
+  font-style: italic;
+  color: #131c7d;
+  font-size: 17px
+}
+img {
+  float: right;
 }
