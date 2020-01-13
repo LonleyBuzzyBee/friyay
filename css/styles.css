@@ -18,11 +18,11 @@ h2 {
 }
 p {
   color: #131c7d;
-  font-size: 17px
+  font-size: 17px;
 }
 ul {
   color: #131c7d;
-  font-size: 17px
+  font-size: 17px;
 }
 .well h2 {
   color: #abdbf5;
@@ -32,8 +32,11 @@ ul {
 blockquote {
   font-style: italic;
   color: #131c7d;
-  font-size: 17px
+  font-size: 17px;
 }
 img {
   float: right;
+}
+#me {
+  width: 200px;
 }
