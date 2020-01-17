@@ -9,7 +9,7 @@
 #### This website was created to list examples of projects i've worked in GitHub, includes a brief bio with my personal background and interests.
 ---
 ## Setup:
-#### Accessing this website is simple, just open html in preffered web browser. 
+#### Accessing this website is simple, just open https://github.com/LonleyBuzzyBee/friyay in your preferred browser. Then open your terminal. Click the 'clone or download' button in the github page. Then go back to your terminal, enter 'cd desktop'. Then enter 'git clone' and paste the repo link provided in github pages. Then open the folder 'friyay' in VS code or atom. Drag the 'index.html' file to your browser or enter 'open index.html' in VS code. Then you're done! 
 ---
 ## Known bugs:
 #### Currently no known bugs.
